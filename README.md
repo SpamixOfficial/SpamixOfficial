@@ -53,6 +53,7 @@
 </div>
 <hr>
 
+<div align="center">
 <!--START_SECTION:waka-->
 
 ```all_time
@@ -64,7 +65,7 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
+</div>
 
 <div align="center">
 <h2>And now, some pointless jokes</h2>
