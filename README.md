@@ -23,7 +23,8 @@
     📬You can reach me on Discord (or github)📬
 <br><br>
 
-![My Discord](https://badgen.net/badge/Discord/spamixofficial/?color=7289da&icon=discord "Add me on discord!")
+![My Discord]([![Discord - SpamixOfficial](https://img.shields.io/badge/Discord-SpamixOfficial-7289da?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discordapp.com/users/785088537824854046)
+)
 </div>
 <br><br>
 
