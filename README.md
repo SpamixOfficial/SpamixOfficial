@@ -16,7 +16,7 @@
 <h3 align="center">
 
  I'm a Swedish music producer and programmer who likes to do....stuff :D
-    <br><br>My daily driver is EndeavourOS and I'm currently learning C!
+    <br><br>My daily driver is EndeavourOS and I'm currently learning C and Rust!
 <h3>
 <div align="center">
 <br>
