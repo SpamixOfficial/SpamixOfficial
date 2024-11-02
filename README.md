@@ -18,8 +18,8 @@
  Hey there 👋
 </h2>
 <p align="center">
-My name is Alexander, but I am more commonly known as sapmix, Spamix or spamixofficial
-    <br>But, who am I? Well, I am just a guy who enjoys programming, playing CTFs and producing music
+My name is Alexander, but I am more commonly known as Goosemix, Spasmix or Spamix
+    <br>But, who am I? Well, I am just a professional yapper who enjoys yapping, programming, playing CTFs and producing music
 </p>
 <div align="center">
 <br>
@@ -58,7 +58,7 @@ My name is Alexander, but I am more commonly known as sapmix, Spamix or spamixof
     <img height="64" width="64" src="https://cdn.simpleicons.org/ubuntu/#E95420"/>-->
 </div>
 
-<h1 align="center">Now, how much time am I spending writing software?</h1>
+<h1 align="center">Now, how much time am I spending yapping about software?</h1>
 
 <div align="center">
 <!--START_SECTION:waka-->
