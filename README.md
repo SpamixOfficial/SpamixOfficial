@@ -27,7 +27,7 @@ My name is Alexander, but I am more commonly known as sapmix, Spamix or spamixof
 <br><br>
 
 [![Discord - SpamixOfficial](https://img.shields.io/badge/Discord-SpamixOfficial-7289da?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discordapp.com/users/785088537824854046)
-    <br><br>Psst! I run <img height="16" width="16" src="https://cdn.simpleicons.org/archlinux/1793D1"/>, btw :3
+    <br><br>Psst! I run <img height="16" width="16" src="https://cdn.simpleicons.org/fedora/51A2DA"/>, btw :3
 </div>
 <!--<br><br>--!>
 
